@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>JobRAID by Helian</title>
+</head>
+<body>
+<script>
+if(navigator.userAgent.includes('Android') || navigator.userAgent.includes('iPhone')){
+    window.location.assign('mobile.html');
+}
+else{
+if(Boolean(window.localStorage.getItem('umail'))){
+    window.location.assign('search.html');
+}else{
+    window.location.assign('login.html');
+}}
+</script>
+    </body>
+</html>
