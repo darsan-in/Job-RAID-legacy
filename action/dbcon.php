@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$user = "id20294726_helian";
-$password = "RAIDJob@2023";
-$dbname = "id20294726_cjp_db";
+$user = "u904769970_jobadmin";
+$password = "Darsansm008#";
+$dbname = "u904769970_jobraid_db";
 
 // checking connection
 $conn = new mysqli($servername, $user, $password, $dbname);
