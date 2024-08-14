@@ -1,34 +1,22 @@
 <div align="center">
 
-# [Title] - [short desc]
+# Job RAID - One-Stop Job Search Engine
 
-<p id="intro">[This is a placeholder paragraph. Here some introductory text or describe the content that will eventually go in this section. This text is meant to give a sense of how the final content will look in the design.]
-</p>
-
-### Supported Platforms
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+<p id="intro">Job RAID is a search engine that aggregates results from multiple job listing websites, allowing you to search and filter jobs across various portals in one place. It saves you time by eliminating the need to visit each site separately and helps you find jobs that match your desired salary or skill set more efficiently.</p>
 
 ---
-
-[uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
 
 <p>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/commits/main">
-    <img src="https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
+  <a href="https://github.com/darsan-in/Job-RAID/commits/main">
+    <img src="https://img.shields.io/github/last-commit/darsan-in/Job-RAID?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
   </a>
 </span>
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
+    <img src="https://img.shields.io/github/commit-activity/m/darsan-in/Job-RAID?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
   </a>
 </span>
 
@@ -37,14 +25,8 @@
 <p>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Build%20Status" alt="GitHub Actions Build Status"/>
-  </a>
-</span>
-
-<span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Test%20Status" alt="GitHub Actions Test Status"/>
+  <a href="https://github.com/darsan-in/Job-RAID/actions/workflows/pages/pages-build-deployment">
+    <img src="https://img.shields.io/github/actions/workflow/status/darsan-in/Job-RAID/pages/pages-build-deployment?style=for-the-badge&label=Build%20Status" alt="GitHub Actions Build Status"/>
   </a>
 </span>
 
@@ -56,13 +38,13 @@
 
 <span>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge&label=License" alt="GitHub License"/>
+    <img src="https://img.shields.io/github/license/darsan-in/Job-RAID?style=for-the-badge&label=License" alt="GitHub License"/>
   </a>
 </span>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/releases">
-    <img src="https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
+  <a href="https://github.com/darsan-in/Job-RAID/releases">
+    <img src="https://img.shields.io/github/v/release/darsan-in/Job-RAID?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
   </a>
 </span>
 
@@ -71,8 +53,8 @@
 <p>
 
 <span>
-  <a href="https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main">
-    <img src="https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
+  <a href="https://www.codefactor.io/repository/github/darsan-in/Job-RAID/issues/main">
+    <img src="https://img.shields.io/codefactor/grade/github/darsan-in/Job-RAID?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
   </a>
 </span>
 
@@ -84,21 +66,9 @@
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20On%20NPM" alt="NPM Downloads"/>
+    <img src="https://img.shields.io/github/stars/darsan-in/Job-RAID?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
   </a>
 </span>
-
-<span>
-  <a href="">
-    <img src="https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
-  </a>
-</span>
-
-</p>
-
----
-
-<p>
 
 <span>
   <a href="https://github.com/sponsors/darsan-in">
@@ -119,7 +89,6 @@
 - [Friendly request to users](#-friendly-request-to-users)
 
 - [Installation - Step-by-Step Guide](#installation---step-by-step-guide-)
-- [Usage](#usage)
 - [In-Action](#in-action-)
 
 - [License](#license-%EF%B8%8F)
@@ -131,14 +100,21 @@
 
 ## Features and Benefits ✨
 
-- [f1]
-- [f2]
-- [fn]
+- Aggregate job listings from multiple websites
+- Unified search across all job portals
+- Advanced filtering options by salary, skills, and more
+- Saves time by avoiding repetitive searches on different sites
+- Find the most relevant jobs based on your preferences
+- Easy-to-use interface for quick job discovery
 
 ## Use Cases ✅
 
-- [usecase 1]
-- [use case 2]
+- Searching for jobs that match your preferred salary range across multiple websites
+- Filtering job listings by specific skills or qualifications
+- Efficiently finding the best job opportunities without visiting multiple portals
+- Comparing salaries for similar roles across different job sites
+- Discovering hidden job opportunities that may not appear on your go-to job portal
+- Streamlining the job search process by using a single platform
 
 ---
 
@@ -158,30 +134,26 @@ Thank you for being part of this journey. Your support means the world to us. �
 
 ## Installation - Step-by-Step Guide 🪜
 
-[Installation instructions here]
+⚠️ Below instructions are only applicable to windows user
 
-- **Step 1:**
-- **Step 2:**
-- **Step 3:**
-- **Step 4:**
-- **Step 5:**
-
-## Usage
-
-- [purpose heading]
-  [Demonstration here]
+- **Step 1:** Install Ampps in system, if not already installed.
+- **Step 2:** Open ampps server root directory basically, it is `www` folder inside ampss folder.
+- **Step 3:** Clone this repository inside `www`.
 
 ```bash
-demo
+git clone https://github.com/darsan-in/Job-RAID.git
 ```
+
+- **Step 4:** Start the ampps server.
+- **Step 5:** Now you can view this app in your browser through http://localhost:80/Job-RAID
 
 ## In-Action 🤺
 
-[video] or [gif] or [image]
+![homepage of jobraid](in-action/image.png)
 
 ## License ©️
 
-This project is licensed under the [Apache License 2.0 or GNU General Public License v3.0 or MIT](LICENSE).
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## Contributing to Our Project 🤝
 
@@ -197,7 +169,7 @@ Thank you for being part of this journey!
 
 ## Website 🌐
 
-<a id="url" href="https://darsan.in">[https://darsan.in]</a>
+<a id="url" href="https://darsan-in.github.io/Job-RAID/">https://darsan-in.github.io/Job-RAID/</a>
 
 ## Contact Information
 
@@ -205,7 +177,7 @@ For any questions, please reach out via hello@darsan.in or [LinkedIn](https://ww
 
 ## Credits 🙏🏻
 
-[credits to lib maintainers/creators]
+Thanks to [Vicky](https://github.com/itzvixky) for making one of the job crawlers.
 
 ---
 
@@ -278,10 +250,23 @@ For any questions, please reach out via hello@darsan.in or [LinkedIn](https://ww
 #### Topics
 
 <ul id="keywords">
-
-<li>A</li>
-<li>B</li>
-<li>C</li>
-<li>D</li>
-
+<li>job search</li>
+<li>job aggregation</li>
+<li>job portal</li>
+<li>job filter</li>
+<li>salary comparison</li>
+<li>job discovery</li>
+<li>multi-platform job search</li>
+<li>time-saving job search</li>
+<li>online jobs</li>
+<li>job listings</li>
+<li>job engine</li>
+<li>career search</li>
+<li>job websites</li>
+<li>job finder</li>
+<li>job opportunities</li>
+<li>efficient job search</li>
+<li>job search platform</li>
+<li>job search engine</li>
+<li>aggregate job listings</li>
 </ul>
