@@ -1,0 +1,13 @@
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp -r * public  # Copy all files to the public directory
+  artifacts:
+    paths:
+      - public  # GitLab Pages serves files from the 'public' directory
+  only:
+    - main  # Only deploy from the main branch (adjust if needed)
