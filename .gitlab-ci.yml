@@ -5,7 +5,7 @@ pages:
   stage: deploy
   script:
     - mkdir -p public
-    - rsync -av --exclude='public' . public/
+    - cp -r $(ls | grep -v public) public/ 
   artifacts:
     paths:
       - public  # GitLab Pages serves files from the 'public' directory
