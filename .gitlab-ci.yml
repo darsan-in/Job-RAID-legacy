@@ -5,8 +5,7 @@ pages:
   stage: deploy
   script:
     - mkdir -p public
-    - cd public
-    - cp -r ../* .  # Copy all files to the public directory
+    - cp -r !("public") public  # Copy all files to the public directory
   artifacts:
     paths:
       - public  # GitLab Pages serves files from the 'public' directory
